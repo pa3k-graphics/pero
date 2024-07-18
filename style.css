@@ -633,9 +633,9 @@ p {
 		--row-height: 350px;
 	}
 	.thumbnail-grid{
-		gap: 20px;
+		gap: 10px;
 		--num-cols: 1;
-		--row-height: 190px;
+		--row-height: 200px;
 		border-radius: 24px;
 	}
 	.zistit-viac{
